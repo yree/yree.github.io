@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Yree
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: For the green
+intro_image: "images/illustrations/green_path.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+## Yree
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+For the green ...
