@@ -1,4 +1,4 @@
 # Yree 🌱
 
-** For the green... 🌿**
+**For the green... 🌿**
 
