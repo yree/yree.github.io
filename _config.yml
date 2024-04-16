@@ -1,4 +1,6 @@
 title: Yree
 author: Shantanu Mishra
-favicon: "favicon.svg"
+favicon: favicon.svg
 remote_theme: yree/mold
+footer_content: >
+  ##### © 2024 [Yree](https://yree.io) | 🔗 [Github](https://github.com/yree)
