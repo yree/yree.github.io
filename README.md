@@ -10,3 +10,5 @@
 - 🔭 **[seek](seek)** - A web-plugin to **s**eek **e**xplor**e** and **k**now. [WIP]
 - 🦏 **[rino](rino)** - **R**apid **I/O**: Blazing-fast prototyping! [WIP]
 - 🌾 **[mdow](mdow)** - A meadow for your markdown files. [WIP]
+
+<a href="https://yree.io"><img width=20% src="https://media.githubusercontent.com/media/yree/dump/refs/heads/main/yree/yree-logo.png"></a>
