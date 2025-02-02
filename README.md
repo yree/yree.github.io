@@ -1,4 +1,4 @@
-# ![Yree 🌱](https://media.githubusercontent.com/media/yree/dump/refs/heads/main/yree/yree-slim.png)
+# ![Yree](https://media.githubusercontent.com/media/yree/dump/refs/heads/main/yree/yree-slim.png)
 
 **For the green 🌱**
 
@@ -7,9 +7,9 @@
 
 ## Works
 
-- **[mash](mash)** - a web-stack as simple as potatoes
-- **[mold](mold)** - a minimal optimized lightweight design
+- **[mash](mash)** — a web-stack as simple as potatoes
+- **[mold](mold)** — a minimal optimized lightweight design
 - **[mdow](mdow)** — a meadow for your markdown files
-- **[seek](seek)** - a web-plugin to seek explore and know [WIP]
-- **[rino](rino)** - rapid i/o for blazing-fast prototyping! [WIP]
+- **[seek](seek)** — a web-plugin to seek explore and know [WIP]
+- **[rino](rino)** — rapid i/o for blazing-fast prototyping! [WIP]
 
