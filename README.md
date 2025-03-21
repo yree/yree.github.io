@@ -1,4 +1,4 @@
-# ![Yree](https://media.githubusercontent.com/media/yree/dump/refs/heads/main/yree/yree-slim.png)
+# Yree 🌳
 
 **For the green 🌱**
 
@@ -13,3 +13,4 @@
 - **[seek](seek)** — a web-plugin to seek explore and know [WIP]
 - **[rino](rino)** — rapid i/o for blazing-fast prototyping! [WIP]
 
+![Yree](https://media.githubusercontent.com/media/yree/dump/refs/heads/main/yree/yree-slim.png)
