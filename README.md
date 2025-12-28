@@ -6,7 +6,7 @@
 > *"Nature is not a place to visit. It is home."*  
 > — Gary Snyder
 
-## Welcome to Yree 🤗
+## welcome to Yree 🤗
 
 **Yree** is a collective of lightweight, thoughtful tools built around the belief that tech can feel like nature — simple, regenerative, and made with care.
 
@@ -20,7 +20,7 @@ No bloat. No fluff.
 ![Yree](https://media.githubusercontent.com/media/yree/dump/refs/heads/main/yree/yree-slim.png)
 
 
-## Works 🐾
+## works 🐾
 
 <div class="grid">
   <div class="card">
@@ -61,7 +61,7 @@ No bloat. No fluff.
   </div>
 </div>
 
-## What Yree stands for 🌿
+## what Yree stands for 🌿
 
 We build tools that feel like trees:  
 - **Rooted** in simplicity  
