@@ -44,9 +44,9 @@ No bloat. No fluff.
   </div>
 
   <div class="card">
-    <b>🔭 <a href="seek" target="_blank">seek</a></b>
-    <p><i>search, explore, know</i></p>
-    <p>A web plugin that brings discovery to you. Curious by design. <i>[WIP]</i></p>
+    <b>✍️ <a href="writ" target="_blank">writ</a></b>
+    <p><i>write it, run it</i></p>
+    <p>Scan your handwritten notes. Writ reads your pages and turns them into calendar events, reminders, and tasks — so you don't have to. <i>[WIP]</i></p>
   </div>
 </div>
 
