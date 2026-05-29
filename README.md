@@ -1,8 +1,6 @@
 # Yree 🌳  
 **For the green 🌱**
 
-<br>
-
 > *"Nature is not a place to visit. It is home."*  
 > — Gary Snyder
 
@@ -17,7 +15,6 @@ Every project at Yree is part of a bigger picture — tools that work, that stay
 
 No bloat. No fluff.
 
-![Yree](https://media.githubusercontent.com/media/yree/dump/refs/heads/main/yree/yree-slim.png)
 
 
 ## works 🐾
@@ -79,3 +76,17 @@ Forever in beta (because nature never stops iterating).
 —
 **Yree**  
 *with love, from the forest*
+
+<pre style="width:fit-content;margin:0 0 0 auto;overflow:hidden;"><span style="color:gray">      V</span>                                  
+<span style="color:gray">   v   v</span>                       <span style="color:blue">.-=-.</span>     
+<span style="color:gray">    v</span>      <span style="color:green">___</span>            <span style="color:blue">.-++++++++-.  </span> 
+         <span style="color:green">.'"""'.-"-.</span>     <span style="color:blue">(+++++++++++++) </span>
+       <span style="color:green">.-"""""""""""-.    </span><span style="color:blue">'-++++++++-'</span>   
+      <span style="color:green">(""""""""""""""")</span>                  
+       <span style="color:green">'"""</span><span style="color:brown;font-style:normal">\</span> <span style="color:brown;font-style:normal">\</span><span style="color:green">"""""""'</span>                   
+          <span style="color:green">'"</span><span style="color:brown;font-style:normal">\</span><span style="color:brown"> </span><span style="color:brown;font-style:normal">\</span><span style="color:brown">/ /___  ___  ___ </span>         
+             <span style="color:brown;font-style:normal">\</span><span style="color:brown">  // __</span><span style="color:brown;font-style:normal">\</span><span style="color:brown">/ _ </span><span style="color:brown;font-style:normal">\</span><span style="color:brown">/ _ </span><span style="color:brown;font-style:normal">\</span>         
+             <span style="color:brown">/ // /  /  __/  __/</span>         
+            <span style="color:brown">/_//_/   </span><span style="color:brown;font-style:normal">\</span><span style="color:brown">___/</span><span style="color:brown;font-style:normal">\</span><span style="color:brown">___/ </span>         </pre>
+<pre style="margin:0;overflow:hidden;color:green;">\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/\|/
+/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\/|\</pre>
