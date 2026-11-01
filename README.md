@@ -19,37 +19,33 @@ No bloat. No fluff.
 
 ## works 🐾
 
-<div class="grid">
+<div class="flex">
   <div class="card">
-    <b>🥔 <a href="mash" target="_blank">mash</a></b>
+    <b><a href="mash" target="_blank">mash</a> 🥔</b>
     <p><i>a web stack as simple as potatoes</i></p>
     <p>Like a warm soup made from maud, axum, sqlx, and htmx. Lightweight. Local. Lovely.</p>
   </div>
 
   <div class="card">
-    <b>🍄 <a href="mold" target="_blank">mold</a></b>
+    <b><a href="mold" target="_blank">mold</a> 🍄</b>
     <p><i>minimal optimized lightweight design</i></p>
     <p>A CSS design system that doesn’t scream. It whispers. Clean layouts, clear defaults, and nothing extra.</p>
   </div>
-</div>
 
-<div class="grid">
   <div class="card">
-    <b>🌾 <a href="mdow" target="_blank">mdow</a></b>
+    <b><a href="mdow" target="_blank">mdow</a> 🌾</b>
     <p><i>a meadow for your markdown</i></p>
     <p>No dashboards, no config. Just drop your markdown and publish a calm, static garden of words.</p>
   </div>
 
   <div class="card">
-    <b>✍️ <a href="writ" target="_blank">writ</a></b>
+    <b><a href="writ" target="_blank">writ</a> ✍️</b>
     <p><i>write it, run it</i></p>
     <p>Scan your handwritten notes. Writ reads your pages and turns them into calendar events, reminders, and tasks — so you don't have to. <i>[WIP]</i></p>
   </div>
-</div>
 
-<div class="grid">
   <div class="card">
-    <b>🦏 <a href="rino" target="_blank">rino</a></b>
+    <b><a href="rino" target="_blank">rino</a> 🦏</b>
     <p><i>rapid i/o for fast prototyping</i></p>
     <p>Prototyping made ridiculously fast. Simulate anything and everything. <i>[WIP]</i></p>
   </div>
